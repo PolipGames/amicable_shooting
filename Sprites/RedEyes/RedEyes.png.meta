@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: fcf67e10d9a259040a664f5339c8e6f5
+timeCreated: 1503172720
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Chest
+    21300004: Leg1_up
+    21300006: Leg1_down
+    21300008: Foot1
+    21300010: Leg2_up
+    21300012: Leg2_down
+    21300014: Foot2
+    21300016: Arm2_up
+    21300018: Arm2_down
+    21300020: Hand2
+    21300022: Arm1_up
+    21300024: Arm1_down
+    21300026: Hand1
+    21300028: Pistol
+    21300030: Hip
+    21300032: Fire
+    21300034: Bullet
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 133
+        width: 167
+        height: 142
+      alignment: 9
+      pivot: {x: 0.45957088, y: 0.17668055}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chest
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 177
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6319289, y: 0.18838434}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg1_up
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4801422, y: 0.7762045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg1_down
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 183
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.56251556, y: 0.66879165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 177
+        width: 28
+        height: 18
+      alignment: 9
+      pivot: {x: 0.3070952, y: 0.63128155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg2_up
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 116
+        width: 32
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48945063, y: 0.7363083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg2_down
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 93
+        width: 28
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5723395, y: 0.70984834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 26
+        height: 16
+      alignment: 9
+      pivot: {x: 0.35717633, y: 0.6054945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm2_up
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 74
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3045568, y: 0.60476685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm2_down
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 69
+        width: 30
+        height: 24
+      alignment: 9
+      pivot: {x: 0.21868083, y: 0.5843951}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hand2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 55
+        width: 38
+        height: 35
+      alignment: 9
+      pivot: {x: 0.26013786, y: 0.58680683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm1_up
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 45
+        height: 59
+      alignment: 9
+      pivot: {x: 0.2824462, y: 0.7689218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm1_down
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 62
+        height: 26
+      alignment: 9
+      pivot: {x: 0.113412306, y: 0.39612785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hand1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 55
+        height: 37
+      alignment: 9
+      pivot: {x: 0.199244, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pistol
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 115
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hip
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 120
+        width: 66
+        height: 52
+      alignment: 9
+      pivot: {x: 0.52045923, y: 0.6558075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 87
+        width: 54
+        height: 60
+      alignment: 9
+      pivot: {x: 0.16161375, y: 0.4845145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 88
+        width: 45
+        height: 21
+      alignment: 9
+      pivot: {x: 0.8028273, y: 0.45575643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
